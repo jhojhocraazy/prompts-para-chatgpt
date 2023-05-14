@@ -15,8 +15,8 @@ Esperamos que você ache estes prompts úteis e se divirta usando o ChatGPT!
 # Prompts
 
 ## Capture seu estilo de escrita
-Contributed by: [@realchasecurtis](https://twitter.com/realchasecurtis)
-Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
+Contribuição: [@realchasecurtis](https://twitter.com/realchasecurtis)
+Referência: https://twitter.com/realchasecurtis/status/1642516833382068227
 
 **Forneça ao GPT algumas amostras de sua escrita e peça para criar um guia de estilo para resultados futuros.**
 
@@ -27,8 +27,8 @@ pt-br:
 > Analise o texto abaixo quanto ao estilo, voz e tom. Usando a PNL, crie um prompt para escrever um novo artigo no mesmo estilo, voz e tom: [insira seu texto ou link para sua redação]
 
 ## Conteúdo com propósito
-Contributed by: [@realchasecurtis](https://twitter.com/realchasecurtis)
-Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
+Contribuição: [@realchasecurtis](https://twitter.com/realchasecurtis)
+Referência: https://twitter.com/realchasecurtis/status/1642516833382068227
 
 **Gere conteúdo com um objetivo específico em mente, informando à GPT quem é seu público e o que você deseja alcançar com seu conteúdo.**
 
@@ -43,8 +43,8 @@ Para o público: usuários de mídias sociais.
 Objetivo do conteúdo: motivar o público a se sentir entusiasmado com o crescimento de sua lista de e-mail enquanto ensina uma dica.
 
 ## Simulador Especialista
-Contributed by: [@realchasecurtis](https://twitter.com/realchasecurtis)
-Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
+Contribuição: [@realchasecurtis](https://twitter.com/realchasecurtis)
+Referência: https://twitter.com/realchasecurtis/status/1642516833382068227
 
 **Peça à GPT para desempenhar o papel de cliente ou especialista qualificado e gere conteúdo como se fosse essa persona específica.**
 
@@ -55,8 +55,8 @@ pt-br:
 > Aja como um cientista de dados experiente e me oriente na redação de um relatório que destaque as últimas tendências e previsões no campo da inteligência artificial. Forneça-me percepções exclusivas e conselhos de especialistas que me ajudarão a fornecer conteúdo informativo de alta qualidade ao meu público.
 
 ## Comandos não convencionais
-Contributed by: [@realchasecurtis](https://twitter.com/realchasecurtis)
-Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
+Contribuição: [@realchasecurtis](https://twitter.com/realchasecurtis)
+Referência: https://twitter.com/realchasecurtis/status/1642516833382068227
 
 **Tente usar prompts mais abertos ou abstratos para obter respostas únicas e criativas. Você pode desbloquear o potencial criativo do GPT ao encontrar linguagem vívida e tópicos inesperados.**
 
@@ -67,8 +67,8 @@ pt-br:
 > Escreva um poema sobre criação de conteúdo" ou "Descreva como se sente um profissional de marketing digital em 10 adjetivos.
 
 ## Ultra-Brainstorming
-Contributed by: [@realchasecurtis](https://twitter.com/realchasecurtis)
-Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
+Contribuição: [@realchasecurtis](https://twitter.com/realchasecurtis)
+Referência: https://twitter.com/realchasecurtis/status/1642516833382068227
 
 **Em vez de pedir ao GPT para gerar uma lista de possíveis ideias de tópicos para seu próximo projeto ou pedir novos ângulos para cobrir um tópico familiar.**
 
@@ -81,8 +81,8 @@ pt-br:
 Para o tópico acima, apresente ideias novas e inovadoras que sejam prontas para uso e não convencionais.
 
 ## Desafie o pensamento dominante
-Contributed by: [@realchasecurtis](https://twitter.com/realchasecurtis)
-Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
+Contribuição: [@realchasecurtis](https://twitter.com/realchasecurtis)
+Referência: https://twitter.com/realchasecurtis/status/1642516833382068227
 
 **Peça exemplos que contradigam a narrativa dominante para buscar ângulos provocativos que desafiem as expectativas e quebrem o padrão.**
 
@@ -93,8 +93,8 @@ pt-br:
 > Dê exemplos que contradizem as ideias expressas nesta página da web e gere soluções instigantes: [insira o URL da página da web]
 
 ## Experimente estilos e tons
-Contributed by: [@realchasecurtis](https://twitter.com/realchasecurtis)
-Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
+Contribuição: [@realchasecurtis](https://twitter.com/realchasecurtis)
+Referência: https://twitter.com/realchasecurtis/status/1642516833382068227
 
 **Escreva em diferentes estilos ou tons para criar um conteúdo mais dinâmico e variado.**
 
@@ -151,8 +151,8 @@ pt-br:
 > Dê [insira o estilo] conselhos que você pode sobre como usar GPT-4 para criar conteúdo mais eficaz em um [insira o tom].
 
 ## Perspectivas Diferentes
-Contributed by: [@realchasecurtis](https://twitter.com/realchasecurtis)
-Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
+Contribuição: [@realchasecurtis](https://twitter.com/realchasecurtis)
+Referência: https://twitter.com/realchasecurtis/status/1642516833382068227
 
 **Peça-lhe para escrever a partir da perspectiva de um grupo de personagens com diferentes formações.**
 
@@ -165,8 +165,8 @@ pt-br:
 Para o tópico acima, escreva várias perspectivas de um grupo com diferentes pontos de vista usando sua própria voz e fraseado.
 
 ## Troca de formato
-Contributed by: [@realchasecurtis](https://twitter.com/realchasecurtis)
-Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
+Contribuição: [@realchasecurtis](https://twitter.com/realchasecurtis)
+Referência: https://twitter.com/realchasecurtis/status/1642516833382068227
 
 **Use o GPT para escrever em diferentes formatos, como esboços, mapas mentais, marcadores, ensaios persuasivos ou blocos de texto com menos de 280 caracteres, usando uma estrutura específica.**
 
@@ -177,8 +177,8 @@ pt-br:
 > Crie um mapa mental sobre o uso do Notion para se manter organizado como um criador de conteúdo, listando a ideia central, ramificações principais e sub-ramificações.
 
 ## Inspiração escrita por humanos
-Contributed by: [@realchasecurtis](https://twitter.com/realchasecurtis)
-Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
+Contribuição: [@realchasecurtis](https://twitter.com/realchasecurtis)
+Referência: https://twitter.com/realchasecurtis/status/1642516833382068227
 
 **Peça ao GPT para trabalhar de acordo com as informações que você leu em outro lugar, como dicas de redação persuasiva de uma postagem de blog.**
 
