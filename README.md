@@ -54,6 +54,99 @@ en:
 pt-br:
 > Aja como um cientista de dados experiente e me oriente na redação de um relatório que destaque as últimas tendências e previsões no campo da inteligência artificial. Forneça-me percepções exclusivas e conselhos de especialistas que me ajudarão a fornecer conteúdo informativo de alta qualidade ao meu público.
 
+## Comandos não convencionais
+Contributed by: [@realchasecurtis](https://twitter.com/realchasecurtis)
+Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
+
+**Tente usar prompts mais abertos ou abstratos para obter respostas únicas e criativas. Você pode desbloquear o potencial criativo do GPT ao encontrar linguagem vívida e tópicos inesperados.**
+
+en:
+> Write a poem about content creation" or "Describe feeling like an digital marketer in 10 adjectives.
+
+pt-br:
+> Escreva um poema sobre criação de conteúdo" ou "Descreva como se sente um profissional de marketing digital em 10 adjetivos.
+
+## Ultra-Brainstorming
+Contributed by: [@realchasecurtis](https://twitter.com/realchasecurtis)
+Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
+
+**Em vez de pedir ao GPT para gerar uma lista de possíveis ideias de tópicos para seu próximo projeto ou pedir novos ângulos para cobrir um tópico familiar.**
+
+en:
+> Topic: Improving your copywriting skills.
+For the above topic, come up with new and innovative ideas that are out-of-the-box and unconventional.
+
+pt-br:
+> Melhorando suas habilidades de copywriting.
+Para o tópico acima, apresente ideias novas e inovadoras que sejam prontas para uso e não convencionais.
+
+## Desafie o pensamento dominante
+Contributed by: [@realchasecurtis](https://twitter.com/realchasecurtis)
+Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
+
+**Peça exemplos que contradigam a narrativa dominante para buscar ângulos provocativos que desafiem as expectativas e quebrem o padrão.**
+
+en:
+> Give examples that contradict the ideas expressed on this webpage, and generate thought-provoking solutions: [insert webpage URL]
+
+pt-br:
+> Dê exemplos que contradizem as ideias expressas nesta página da web e gere soluções instigantes: [insira o URL da página da web]
+
+## Experimente estilos e tons
+Contributed by: [@realchasecurtis](https://twitter.com/realchasecurtis)
+Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
+
+**Escreva em diferentes estilos ou tons para criar um conteúdo mais dinâmico e variado.
+Exemplos de estilo:
+Descritivo
+Persuasivo
+Narrativa
+Expositivo
+Técnico
+acadêmico
+Criativo
+Informal
+Formal
+bem-humorado
+Satírico
+Irônico
+Dramático
+Poético
+Místico
+Suspense
+Romântico
+Realista
+surrealista
+gótico
+
+Exemplos de tons:
+Formal
+Informal
+Sério
+bem-humorado
+Sarcástico
+Irônico
+Cínico
+Satírico
+Confiante
+Duvidoso
+Otimista
+Pessimista
+simpático
+empático
+Nervoso
+Agressivo
+Respeitoso
+Brincalhão
+Sincero
+Objetivo**
+
+en:
+> Give [insert style] advice you can about using GPT-4 to create more effective content in a [insert tone].
+
+pt-br:
+> Dê [insira o estilo] conselhos que você pode sobre como usar GPT-4 para criar conteúdo mais eficaz em um [insira o tom].
+
 # Licença
 
 CC-0
