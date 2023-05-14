@@ -121,12 +121,28 @@ Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
 | Surrealista     | Surrealistic     |
 | Gótico      | Gothic     |
 
-
-| Left columns  | Right columns |
+| Exemplos de tons  | Tone Examples |
 | ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+| Formal      | Formal     |
+| Informal      | Informal     |
+| Sério      | Serious     |
+| Bem-humorado      | Humorous     |
+| Sarcástico      | Sarcastic     |
+| Irônico      | Ironic     |
+| Cínico      | Cynical     |
+| Satírico      | Satirical     |
+| Confiante      | Confident     |
+| Duvidoso      | Doubtful     |
+| Otimista      | Optimistic     |
+| Pessimista      | Pessimistic     |
+| Simpático      | Sympathetic     |
+| Empático      | Empathetic     |
+| Nervoso      | Angry     |
+| Agressivo      | Aggressive     |
+| Respeitoso      | Respectful     |
+| Brincalhão      | Playful     |
+| Sincero      | Sincere     |
+| Objetivo      | Objective     |
 
 en:
 > Give [insert style] advice you can about using GPT-4 to create more effective content in a [insert tone].
