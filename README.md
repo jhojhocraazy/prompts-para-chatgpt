@@ -98,49 +98,49 @@ Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
 
 **Escreva em diferentes estilos ou tons para criar um conteúdo mais dinâmico e variado.**
 
-Exemplos de estilo:
-Descritivo
-Persuasivo
-Narrativa
-Expositivo
-Técnico
-acadêmico
-Criativo
-Informal
-Formal
-bem-humorado
-Satírico
-Irônico
-Dramático
-Poético
-Místico
-Suspense
-Romântico
-Realista
-surrealista
-gótico
+*Exemplos de estilo:
+*Descritivo
+*Persuasivo
+*Narrativa
+*Expositivo
+*Técnico
+*Acadêmico
+*Criativo
+*Informal
+*Formal
+*Bem-humorado
+*Satírico
+*Irônico
+*Dramático
+*Poético
+*Místico
+*Suspense
+*Romântico
+*Realista
+*Surrealista
+*Gótico
 
-Exemplos de tons:
-Formal
-Informal
-Sério
-bem-humorado
-Sarcástico
-Irônico
-Cínico
-Satírico
-Confiante
-Duvidoso
-Otimista
-Pessimista
-simpático
-empático
-Nervoso
-Agressivo
-Respeitoso
-Brincalhão
-Sincero
-Objetivo**
+*Exemplos de tons:
+*Formal
+*Informal
+*Sério
+*Bem-humorado
+*Sarcástico
+*Irônico
+*Cínico
+*Satírico
+*Confiante
+*Duvidoso
+*Otimista
+*Pessimista
+*Simpático
+*Empático
+*Nervoso
+*Agressivo
+*Respeitoso
+*Brincalhão
+*Sincero
+*Objetivo
 
 en:
 > Give [insert style] advice you can about using GPT-4 to create more effective content in a [insert tone].
