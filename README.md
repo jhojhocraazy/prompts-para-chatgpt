@@ -150,6 +150,44 @@ en:
 pt-br:
 > Dê [insira o estilo] conselhos que você pode sobre como usar GPT-4 para criar conteúdo mais eficaz em um [insira o tom].
 
+## Perspectivas Diferentes
+Contributed by: [@realchasecurtis](https://twitter.com/realchasecurtis)
+Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
+
+**Peça-lhe para escrever a partir da perspectiva de um grupo de personagens com diferentes formações.**
+
+en:
+> Topic: Productivity for entrepreneurs. 
+For the above topic, write multiple perspectives from a group with different viewpoints using their own voice and phrasing.
+
+pt-br:
+> Tópico: Produtividade para empreendedores.
+Para o tópico acima, escreva várias perspectivas de um grupo com diferentes pontos de vista usando sua própria voz e fraseado.
+
+## Troca de formato
+Contributed by: [@realchasecurtis](https://twitter.com/realchasecurtis)
+Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
+
+**Use o GPT para escrever em diferentes formatos, como esboços, mapas mentais, marcadores, ensaios persuasivos ou blocos de texto com menos de 280 caracteres, usando uma estrutura específica.**
+
+en:
+> Create a mind map on the topic of using Notion to stay organized as a content creator, listing out the central idea, main branches, and sub-branches.
+
+pt-br:
+> Crie um mapa mental sobre o uso do Notion para se manter organizado como um criador de conteúdo, listando a ideia central, ramificações principais e sub-ramificações.
+
+## Inspiração escrita por humanos
+Contributed by: [@realchasecurtis](https://twitter.com/realchasecurtis)
+Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
+
+**Peça ao GPT para trabalhar de acordo com as informações que você leu em outro lugar, como dicas de redação persuasiva de uma postagem de blog.**
+
+en:
+> Write a brief post about why copywriting is an essential skill in 2023. Use the insights from the following webpage: [insert webpage URL]
+
+pt-br:
+> Escreva uma breve postagem sobre por que a redação é uma habilidade essencial em 2023. Use as informações da seguinte página da Web: [insira o URL da página da Web]
+
 # Licença
 
 CC-0
