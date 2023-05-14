@@ -188,6 +188,30 @@ en:
 pt-br:
 > Escreva uma breve postagem sobre por que a redação é uma habilidade essencial em 2023. Use as informações da seguinte página da Web: [insira o URL da página da Web]
 
+## Aprenda Inglês
+Contribuição: [@srprogrammer](https://twitter.com/srprogrammer)
+Referência: https://twitter.com/srprogrammer/status/1641400791209500672
+
+**Aprenda inglês com o chatGPT da seguinte forma:**
+
+en:
+> We're in [place] and we're going to chat about [topic] and then correct my grammar.
+
+pt-br:
+> Estamos em [lugar] e vamos bater um papo sobre [tema] e em seguida corrija minha gramática.
+
+## Simule entrevista de emprego
+Contribuição: [@euHenriqueM](https://twitter.com/euHenriqueM)
+Referência: https://twitter.com/euHenriqueM/status/1641429380420235264
+
+**Peça para o GPT ser o entrevistador:**
+
+en:
+> Simulate an interview for [position], you are the interviewer and I am [role].
+
+pt-br:
+> Simule uma entrevista para [cargo], você é o entrevistador e eu sou [função].
+
 # Licença
 
 CC-0
