@@ -31,3 +31,7 @@ Contributed by: [@f](https://github.com/f)
 ## Act as `position` Interviewer
 Contributed by: [@f](https://github.com/f) & [@iltekin](https://github.com/iltekin)
 **Examples**: Node.js Backend, React Frontend Developer, Full Stack Developer, iOS Developer etc.
+
+# License
+
+CC-0
