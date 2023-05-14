@@ -98,8 +98,8 @@ Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
 
 **Escreva em diferentes estilos ou tons para criar um conteúdo mais dinâmico e variado.**
 
-*Exemplos de estilo:
-*Descritivo
+** Exemplos de estilo: **
+* Descritivo*
 *Persuasivo
 *Narrativa
 *Expositivo
