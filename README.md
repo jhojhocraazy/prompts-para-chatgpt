@@ -2,11 +2,9 @@
 
 Bem-vindo ao repositório "Prompts incríveis para ChatGPT"! Esta é uma coleção de exemplos de prompts que podem ser usados com o modelo ChatGPT.
 
-O modelo ChatGPT é um modelo de linguagem natural de grande porte treinado pela OpenAI que é capaz de gerar textos semelhantes aos humanos. Ao fornecer-lhe um prompt, ele pode gerar respostas que continuam a conversa ou ampliam o prompt dado.
+O modelo [ChatGPT](https://chat.openai.com/chat) é um modelo de linguagem natural de grande porte treinado pela [OpenAI](https://openai.com) que é capaz de gerar textos semelhantes aos humanos. Ao fornecer-lhe um prompt, ele pode gerar respostas que continuam a conversa ou ampliam o prompt dado.
 
-Neste repositório, você encontrará uma variedade de prompts que podem ser usados com o ChatGPT. Nós incentivamos você a adicionar seus próprios prompts à lista, e a usar o ChatGPT para gerar novos prompts também.
-
-Para começar, basta clonar este repositório e usar os prompts no arquivo README.md como entrada para o ChatGPT. Você também pode usar os prompts neste arquivo como inspiração para criar os seus próprios.
+Neste repositório, você encontrará uma variedade de prompts que podem ser usados com o ChatGPT.
 
 Esperamos que você ache estes prompts úteis e se divirta usando o ChatGPT!
 
@@ -32,6 +30,6 @@ Contributed by: [@f](https://github.com/f)
 Contributed by: [@f](https://github.com/f) & [@iltekin](https://github.com/iltekin)
 **Examples**: Node.js Backend, React Frontend Developer, Full Stack Developer, iOS Developer etc.
 
-# License
+# Licença
 
 CC-0
