@@ -98,49 +98,35 @@ Reference: https://twitter.com/realchasecurtis/status/1642516833382068227
 
 **Escreva em diferentes estilos ou tons para criar um conteúdo mais dinâmico e variado.**
 
-**Exemplos de estilo:**
-* Descritivo
-* Persuasivo
-* Narrativa
-* Expositivo
-* Técnico
-* Acadêmico
-* Criativo
-* Informal
-* Formal
-* Bem-humorado
-* Satírico
-* Irônico
-* Dramático
-* Poético
-* Místico
-* Suspense
-* Romântico
-* Realista
-* Surrealista
-* Gótico
+| Exemplos de estilo  | Style examples |
+| ------------- |:-------------:|
+| Descritivo      | Descriptive     |
+| Persuasivo     | Persuasive     |
+| Narrativa      | Narrative     |
+| Expositivo      | Expository     |
+| Técnico      | Technical     |
+| Acadêmico      | Academic     |
+| Criativo      | Creative     |
+| Informal      | Informal     |
+| Formal      | Formal     |
+| Bem-humorado      | Humorous     |
+| Satírico      | Satirical     |
+| Irônico      | Ironical     |
+| Dramático      | Dramatic     |
+| Poético      | Poetic     |
+| Místico      | Mystical     |
+| Suspense      | Suspenseful     |
+| Romântico     | Romantic     |
+| Realista      | Realistic     |
+| Surrealista     | Surrealistic     |
+| Gótico      | Gothic     |
 
-* Exemplos de tons:
-* Formal
-* Informal
-* Sério
-* Bem-humorado
-* Sarcástico
-* Irônico
-* Cínico
-* Satírico
-* Confiante
-* Duvidoso
-* Otimista
-* Pessimista
-* Simpático
-* Empático
-* Nervoso
-* Agressivo
-* Respeitoso
-* Brincalhão
-* Sincero
-* Objetivo
+
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
 
 en:
 > Give [insert style] advice you can about using GPT-4 to create more effective content in a [insert tone].
