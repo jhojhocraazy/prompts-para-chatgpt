@@ -12,6 +12,4 @@ Esperamos que você ache estes prompts úteis e se divirta usando o ChatGPT!
 
 [Ver no GitHub](https://github.com/jhojhocraazy/prompts-para-chatgpt)
 
-[Ver no Hugging Face](https://huggingface.co/spaces/f/awesome-chatgpt-prompts)
-
 ℹ️ NOTA: Às vezes, alguns dos prompts podem não funcionar como você esperava ou podem ser rejeitados pela IA. Por favor, tente novamente, inicie um novo tópico ou saia e entre novamente. Se estas soluções não funcionarem, por favor tente reescrever o prompt usando suas próprias frases enquanto mantém as instruções iguais.
